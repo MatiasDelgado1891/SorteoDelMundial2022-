@@ -1,2 +1,0 @@
-# SorteoDelMundial-
-Sorteo de un mundial con registro manual de las 32 selecciones y 2 jugadores por seleccion en consola javascript
